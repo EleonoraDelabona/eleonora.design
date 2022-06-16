@@ -355,14 +355,16 @@ nav a:visited:active {
 
 .fa-linkedin,
 .fa-instagram,
-.fa-facebook {
+.fa-facebook,
+.fa-github {
   background: #1B344A;
   color: #F9F6F4;
 }
 
 .fa-linkedin:hover,
 .fa-instagram:hover,
-.fa-facebook:hover {
+.fa-facebook:hover,
+.fa-github:hover {
   background: #1B344A;
   color: #D48D72;
 }
