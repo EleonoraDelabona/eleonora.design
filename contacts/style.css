@@ -102,7 +102,7 @@ nav a:visited:active {
 
 .client-application h3 {
   position: absolute;
-  top: 800px;
+  top: 850px;
   left: 170px;
   background-color: transparent;
 }
@@ -116,7 +116,7 @@ nav a:visited:active {
 .row-application {
   display: flex;
   justify-content: space-between;
-  margin: 900px 0 100px 170px;
+  margin: 950px 0 100px 170px;
   width: 1200px;
 }
 
