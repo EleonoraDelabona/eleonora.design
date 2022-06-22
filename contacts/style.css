@@ -63,10 +63,12 @@ nav li {
   display: inline-block;
   padding: 0px 20px;
   color: #1B344A;
+  background-color: transparent;
 }
 
 nav li.selected {
   color: #D48D72;
+  background-color: transparent;
 }
 
 nav a:hover,
@@ -75,6 +77,7 @@ nav a:active,
 nav a:visited:active {
   color: #D48D72;
   transition: 0.3s ease-out;
+  background-color: transparent;
 }
 
 /*Contacts*/
@@ -232,6 +235,7 @@ nav a:visited:active {
 
 .left-col-footer img {
   width: 100px;
+  heigh: 100px;
   background-color: #1B344A;
 }
 
