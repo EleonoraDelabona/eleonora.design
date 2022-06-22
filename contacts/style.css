@@ -133,6 +133,78 @@ nav a:visited:active {
   width: 340px;
 }
 
+/*Form*/
+.contacts {
+  background-color: #F9F6F4;
+  border: 1px solid #1B344A;
+  width: 60%;
+  padding: 50px;
+  margin: 0 0 100px 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-row-container h3 {
+  padding: 50px;
+}
+
+.field {
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.field label {
+  display: block;
+  font-size: 16px;
+  color: #1B344A;
+}
+
+.field input {
+  display: block;
+  min-width: 250px;
+  line-height: 1.5;
+  font-size: 13px;
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  width: 400px;
+  height: 35px;
+}
+
+.field textarea {
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  padding: 7px;
+  font-size: 13px;
+  width: 400px;
+}
+
+.form-row button {
+  font-size: 16px;
+  color: #1B344A;
+  background-color: #F9F6F4;
+  border: 1px solid #1B344A;
+  border-radius: 3px;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+
+.form-row button:hover {
+  color: #F9F6F4;
+  background-color: #1B344A;
+}
+
+.form-row button:hover a {
+  color: #F9F6F4;
+  background-color: transparent;
+}
+
+.form-row button:active {
+  color: #F9F6F4;
+  background-color: #1B344A;
+}
+
 /*Footer*/
 .footer-container {
   display: flex;
