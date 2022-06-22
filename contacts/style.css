@@ -141,6 +141,7 @@ nav a:visited:active {
 .contacts-background {
   background-color: #F9F6F4;
   width: 100%;
+  margin-bottom: 100px;
 }
 
 .contacts {
@@ -148,7 +149,7 @@ nav a:visited:active {
   border: 1px solid #1B344A;
   width: 60%;
   padding: 50px;
-  margin: 0 0 100px 300px;
+  margin-left: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
