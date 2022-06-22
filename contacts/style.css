@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #F9F6F4;
   color: #1B344A;
   text-decoration: none;
 }
@@ -102,7 +103,7 @@ nav a:visited:active {
 
 .client-application h3 {
   position: absolute;
-  top: 850px;
+  top: 800px;
   left: 170px;
   background-color: transparent;
 }
@@ -116,7 +117,7 @@ nav a:visited:active {
 .row-application {
   display: flex;
   justify-content: space-between;
-  margin: 950px 0 100px 170px;
+  margin: 900px 0 100px 170px;
   width: 1200px;
 }
 
@@ -224,6 +225,7 @@ nav a:visited:active {
 .row-footer {
   display: flex;
   justify-content: space-around;
+  background-color: #1B344A;
   margin: 50px 0 0 180px;
   width: 1200px;
 }
@@ -231,11 +233,11 @@ nav a:visited:active {
 .left-col-footer img {
   width: 100px;
   background-color: #1B344A;
-  margin-right: 100px;
 }
 
 .center-col-footer {
-  padding: 20px 0 0 100px;
+  background-color: #1B344A;
+  padding: 20px 0 0 200px;
   width: 340px;
 }
 
@@ -245,6 +247,7 @@ nav a:visited:active {
 }
 
 .right-col-footer {
+  background-color: #1B344A;
   width: 340px;
   padding: 20px 0 0 100px;
 }
