@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #F9F6F4;
   color: #1B344A;
   text-decoration: none;
 }
@@ -63,7 +62,6 @@ nav li {
   display: inline-block;
   padding: 0px 20px;
   color: #1B344A;
-  background-color: transparent;
 }
 
 nav li.selected {
