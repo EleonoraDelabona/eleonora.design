@@ -138,6 +138,11 @@ nav a:visited:active {
 }
 
 /*Form*/
+.contacts-background {
+  background-color: #F9F6F4;
+  width: 100%;
+}
+
 .contacts {
   background-color: #F9F6F4;
   border: 1px solid #1B344A;
