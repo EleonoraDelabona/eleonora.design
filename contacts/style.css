@@ -570,7 +570,7 @@ nav a:visited:active {
   }
   
   .right-col-footer {
-    width: 230px;
+    width: 100%;
     padding: 50px 0 50px 0;
   }
 
