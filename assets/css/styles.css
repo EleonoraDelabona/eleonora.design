@@ -593,6 +593,7 @@ nav a:visited:active {
 
   .hamburger {
     display: block;
+    background-color: #F9F6F4;
   }
 
   .bar {
