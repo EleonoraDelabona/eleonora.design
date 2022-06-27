@@ -492,6 +492,7 @@ nav a:visited:active {
   .client-application h3 {
     top: 100px;
     left: 30px;
+    right: 30px;
     width: auto;
   }
 
