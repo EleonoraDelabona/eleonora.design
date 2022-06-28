@@ -579,7 +579,7 @@ nav a:visited:active {
     background-color: #F9F6F4;
     left: -100%;
     top: 90px;
-    gap: 20px;
+    gap: 5px;
     bottom: 650px;
     display: flex;
     flex-direction: column;
