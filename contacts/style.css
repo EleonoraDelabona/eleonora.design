@@ -462,6 +462,10 @@ nav a:visited:active {
     left: 0;
   } 
 
+  .nav-item {
+    background-color: #F9F6F4;
+  }
+  
   .hamburger {
     display: block;
   }
