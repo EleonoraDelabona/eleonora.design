@@ -448,11 +448,9 @@ nav a:visited:active {
     position: fixed;
     left: -100%;
     top: 90px;
-    gap: 5px;
     bottom: 650px;
     display: flex;
     flex-direction: column;
-    background-color: #F9F6F4;
     width: 100%;
     text-align: center;
     transition: 0.3s;
@@ -463,6 +461,7 @@ nav a:visited:active {
   } 
 
   .nav-item {
+    padding: 10px 0;
     background-color: #F9F6F4;
   }
   
