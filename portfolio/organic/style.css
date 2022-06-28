@@ -333,26 +333,16 @@ nav a:visited:active {
     width: 100%;
     text-align: center;
     transition: 0.3s;
-  }
-
-  .nav-menu {
-    position: fixed;
-    left: -100%;
-    top: 90px;
-    gap: 20px;
-    bottom: 650px;
-    display: flex;
-    flex-direction: column;
-    background-color: #F9F6F4;
-    width: 100%;
-    text-align: center;
-    transition: 0.3s;
     z-index: 99;
   }
 
   .nav-menu.active {
     left: 0;
   } 
+
+  .nav-item {
+    background-color: #F9F6F4;
+  }
 
   .hamburger {
     display: block;
