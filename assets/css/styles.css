@@ -576,10 +576,8 @@ nav a:visited:active {
 
   .nav-menu {
     position: fixed;
-    background-color: #F9F6F4;
     left: -100%;
     top: 90px;
-    gap: 5px;
     bottom: 650px;
     display: flex;
     flex-direction: column;
@@ -593,6 +591,7 @@ nav a:visited:active {
   } 
 
   .nav-item {
+    padding-top: 20px;
     background-color: #F9F6F4;
   }
   
