@@ -54,7 +54,6 @@ header {
   font-weight: 400;
   font-size: 13px;
   color: #1B344A;
-  background-color: #F9F6F4;
   text-transform: uppercase;
 }
 
@@ -577,13 +576,13 @@ nav a:visited:active {
 
   .nav-menu {
     position: fixed;
+    background-color: #F9F6F4;
     left: -100%;
     top: 90px;
     gap: 20px;
     bottom: 650px;
     display: flex;
     flex-direction: column;
-    background-color: #F9F6F4;
     width: 100%;
     text-align: center;
     transition: 0.3s;
@@ -591,6 +590,7 @@ nav a:visited:active {
 
   .nav-menu.active {
     left: 0;
+    background-color: #F9F6F4;
   } 
 
   .hamburger {
