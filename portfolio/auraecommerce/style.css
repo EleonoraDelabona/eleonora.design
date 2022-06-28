@@ -339,7 +339,11 @@ nav a:visited:active {
   .nav-menu.active {
     left: 0;
   } 
-
+  
+  .nav-item {
+    background-color: #F9F6F4;
+  }
+	
   .hamburger {
     display: block;
   }
