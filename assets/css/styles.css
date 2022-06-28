@@ -590,9 +590,12 @@ nav a:visited:active {
 
   .nav-menu.active {
     left: 0;
-    background-color: #F9F6F4;
   } 
 
+  .nav-item {
+    background-color: #F9F6F4;
+  }
+  
   .hamburger {
     display: block;
     background-color: #F9F6F4;
